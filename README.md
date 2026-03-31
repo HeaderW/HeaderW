@@ -20,8 +20,3 @@
 **Tools:**
 ![IDA Pro](https://img.shields.io/badge/IDA%20Pro-6B4E9A?style=for-the-badge&logo=analogue&logoColor=white)
 ![Cheat Engine](https://img.shields.io/badge/Cheat%20Engine-202020?style=for-the-badge&logo=engine-light&logoColor=green)
-
----
-
-## 📊 System Analytics & Activity
-![HeaderW's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeaderW&show_icons=true&theme=radical&title_color=F5363F&icon_color=F5363F)
