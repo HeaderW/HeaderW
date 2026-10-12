@@ -1,22 +1,27 @@
+
 # NoTrace
 ### Software Project Manager & Developer
 
-## 🛠 Current Projects & Roles
-**Management:**
-![NoTrace](https://img.shields.io/badge/NoTrace-Project%20Manager-F5363F?style=for-the-badge&logo=target&logoColor=white)
-
-**Development:**
-![FiveM Private](https://img.shields.io/badge/FiveM%20Private-Owner-white?style=for-the-badge&logo=fivem&logoColor=orange)
-![Rust External](https://img.shields.io/badge/Rust%20External-Owner-CE412B?style=for-the-badge&logo=rust&logoColor=white)
-
 ---
 
-## 💻 Technical Expertise
+## Projects & Roles
 
-**Programming & Memory:**
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-FF363F?style=for-the-badge&logo=ghost&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/NoTrace-Project_Manager-F5363F?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/FiveM_Private-Owner-white?style=for-the-badge&logo=fivem&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Rust_External-Owner-CE412B?style=for-the-badge&logo=rust&logoColor=white" />
+</p>
 
-**Tools:**
-![IDA Pro](https://img.shields.io/badge/IDA%20Pro-6B4E9A?style=for-the-badge&logo=analogue&logoColor=white)
-![Cheat Engine](https://img.shields.io/badge/Cheat%20Engine-202020?style=for-the-badge&logo=engine-light&logoColor=green)
+## Technical Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reverse_Engineering-FF363F?style=for-the-badge&logo=ghost&logoColor=white" />
+</p>
+
+## Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/IDA_Pro-6B4E9A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cheat_Engine-202020?style=for-the-badge&logoColor=green" />
+</p>
