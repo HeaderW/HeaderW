@@ -1,27 +1,51 @@
+<div align="center">
 
-# NoTrace
-### Software Project Manager & Developer
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,0,0&customColorList=0&height=140&section=header&text=Header&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=48&desc=&stroke=ffffff&strokeWidth=0" />
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=false&random=false&width=500&height=50&lines=low-level+%2F+systems+%2F+reverse+engineering;always+learning%2C+always+building" />
 
-## Projects & Roles
+<br/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/NoTrace-Project_Manager-F5363F?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/FiveM_Private-Owner-white?style=for-the-badge&logo=fivem&logoColor=orange" />
-  <img src="https://img.shields.io/badge/Rust_External-Owner-CE412B?style=for-the-badge&logo=rust&logoColor=white" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Header&style=for-the-badge&color=111111&labelColor=ffffff&label=VISITORS" />
 
-## Technical Skills
+<br/><br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
+<br/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reverse_Engineering-FF363F?style=for-the-badge&logo=ghost&logoColor=white" />
-</p>
+### ◈ &nbsp;Connect
 
-## Tools
+<a href="https://discord.com/users/185120828222996480" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-Header-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0d0d&color=0d0d0d" />
+</a>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/IDA_Pro-6B4E9A?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cheat_Engine-202020?style=for-the-badge&logoColor=green" />
-</p>
+<br/><br/>
+
+### ◈ &nbsp;Discord Status
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/185120828222996480?theme=dark&bg=0d0d0d&borderRadius=10px&hideDiscrim=true&hideTimestamp=false)](https://discord.com/users/185120828222996480)
+
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
+<br/>
+
+### ◈ &nbsp;GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Header&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=ffffff&border_color=222222&hide_border=false&rank_icon=github&include_all_commits=true" height="165" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Header&layout=compact&theme=dark&bg_color=0d0d0d&title_color=ffffff&text_color=888888&border_color=222222&langs_count=6" height="165" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Header&theme=dark&background=0d0d0d&ring=ffffff&fire=cccccc&currStreakLabel=ffffff&sideLabels=888888&dates=555555&border=222222&stroke=0d0d0d" />
+
+<br/><br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
+<br/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,0,0&customColorList=0&height=110&section=footer" />
+
+</div>
